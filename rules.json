@@ -1,5 +1,4 @@
-{
-  "countries": [
+[
     {
       "name": "Afghanistan",
       "take_picture": "No",
@@ -294,12 +293,5 @@
       "publish_picture": "No",
       "commercial_use": "Usually (although laws differ by state)"
     }
-  ],
-  "metadata": {
-    "notes": [
-      "In this context of consent requirements, 'publish' refers to 'making public' and is separate from the term 'publish' as may be defined elsewhere (e.g. U.S./U.K. copyright law)",
-      "In this context of consent requirements, 'commercial use' is separate from, and not in reference to, licensing conditions that may prohibit commercial use (non-commercial license). Often commercial use in this context is contrasted with 'editorial use', with the former referring to advertising and marketing purposes and the latter referring to news reporting and education even if made with a profit motive"
-    ]
-  }
-}
+  ]
 

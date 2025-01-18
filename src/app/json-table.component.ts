@@ -7,6 +7,7 @@ import { MatSortModule, MatSort } from '@angular/material/sort';
 import { MatFormFieldModule } from '@angular/material/form-field';
 import { MatInputModule } from '@angular/material/input';
 import { MatTableDataSource } from '@angular/material/table';
+import { provideAnimations } from '@angular/platform-browser/animations';
 
 @Component({
   selector: 'app-json-table',
@@ -18,6 +19,9 @@ import { MatTableDataSource } from '@angular/material/table';
     MatSortModule,
     MatFormFieldModule,
     MatInputModule
+  ],
+  providers: [
+    provideAnimations()
   ],
   templateUrl: './json-table.component.html',
   styleUrls: ['./json-table.component.scss']
