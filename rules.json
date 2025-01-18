@@ -1,0 +1,305 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Argentina",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Australia",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Austria",
+      "take_picture": "No",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Belgium",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Brazil",
+      "take_picture": "Yes",
+      "publish_picture": "Yes",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Bulgaria",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Canada",
+      "take_picture": "Depends on province",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "China, People's Republic of",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "China, Republic of",
+      "take_picture": "No",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Czech Republic",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Denmark",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Ethiopia",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Finland",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "France",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Germany",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Greece",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Hong Kong SAR",
+      "take_picture": "Depends on circumstances",
+      "publish_picture": "Depends on circumstances",
+      "commercial_use": "Depends on circumstances"
+    },
+    {
+      "name": "Hungary",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Iceland",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "India",
+      "take_picture": "No",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Indonesia",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Iran",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "No (with exceptions)"
+    },
+    {
+      "name": "Ireland",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "No (with exceptions)"
+    },
+    {
+      "name": "Israel",
+      "take_picture": "No",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Italy",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Japan",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Libya",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Macau SAR",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Mexico",
+      "take_picture": "No",
+      "publish_picture": "Yes",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Netherlands",
+      "take_picture": "No",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "No (with exceptions)"
+    },
+    {
+      "name": "New Zealand",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Norway",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Peru",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Poland",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Portugal",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Romania",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Russian Federation",
+      "take_picture": "No",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Singapore",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "No (with exceptions)"
+    },
+    {
+      "name": "Slovakia",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Slovenia",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "South Africa",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "South Korea",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "Spain",
+      "take_picture": "Yes",
+      "publish_picture": "Yes",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Sweden",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Switzerland",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "Turkey",
+      "take_picture": "Yes (with exceptions)",
+      "publish_picture": "Yes (with exceptions)",
+      "commercial_use": "Yes (with exceptions)"
+    },
+    {
+      "name": "United Kingdom",
+      "take_picture": "No (with exceptions)",
+      "publish_picture": "No (with exceptions)",
+      "commercial_use": "Yes"
+    },
+    {
+      "name": "United States",
+      "take_picture": "No",
+      "publish_picture": "No",
+      "commercial_use": "Usually (although laws differ by state)"
+    }
+  ],
+  "metadata": {
+    "notes": [
+      "In this context of consent requirements, 'publish' refers to 'making public' and is separate from the term 'publish' as may be defined elsewhere (e.g. U.S./U.K. copyright law)",
+      "In this context of consent requirements, 'commercial use' is separate from, and not in reference to, licensing conditions that may prohibit commercial use (non-commercial license). Often commercial use in this context is contrasted with 'editorial use', with the former referring to advertising and marketing purposes and the latter referring to news reporting and education even if made with a profit motive"
+    ]
+  }
+}
+
